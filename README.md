@@ -91,15 +91,13 @@ To reproduce the analysis:
 
 When using or referring to this repository, please cite the accompanying seminar report:
 
-Sutter, A., & Wenger, C. (2026). *Verification of AIFS-ENS Forecast Performance Relative to ERA5 Reanalysis for a Foehn Storm in South America*. Unpublished seminar report, Institute of Geography, University of Bern.
+Sutter, A. R., & Wenger, C. L. (2026). *Verification of AIFS-ENS Forecast Performance Relative to ERA5 Reanalysis for a Foehn Storm in South America*. Unpublished seminar report, Institute of Geography, University of Bern.
 
 ## Authors
 
 - Andrin Sutter
 - Christian Wenger
 
-## Licence and Disclaimer
+## License and Disclaimer
 
 The code is provided for academic and reproducibility purposes. No warranty is provided regarding its suitability for operational forecasting or other applications.
-
-The AIFS-ENS and ERA5 datasets remain subject to the terms and conditions of their respective data providers.
