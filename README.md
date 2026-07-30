@@ -4,7 +4,7 @@ This repository contains the code developed for the seminar report:
 
 **“Verification of AIFS-ENS Forecast Performance Relative to ERA5 Reanalysis for a Foehn Storm in South America”**
 
-The report was prepared by **Andrin Sutter and Christian Wenger** as part of the *Seminar in Climatology and Climate Risks* at the **Institute of Geography, University of Bern**.
+The report was written by **Andrin Sutter and Christian Wenger** as part of the *Seminar in Climatology and Climate Risks* at the **Institute of Geography, University of Bern**.
 
 The notebooks were used to process AIFS-ENS ensemble forecasts and ERA5 reanalysis data, calculate derived atmospheric variables, compare forecasts at different lead times, and generate the figures presented in the report. The repository is provided as supplementary material to support transparency and reproducibility.
 
